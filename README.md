@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sam Lehman!
+# 👋 Hi, I'm Sam Lehman
 
-![headshot](./profile.png)
+![headshot](./assets/images/profile.png)
 
 I'm a software developer, tinkerer, and perpetual student.
 
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: *this `README` is a work-in-progress, and I've probably forgotten to update it.* 
+- ⚡ Fun fact: _this `README` is a work-in-progress, and I've probably forgotten to update it._
 
 ## 👀 Interests
 
@@ -21,7 +21,7 @@ I'm a software developer, tinkerer, and perpetual student.
 ## Stuff I Use
 
 - Operating system: NixOS
-- Editor: Neovim (*also been experimenting with Helix lately)
+- Editor: Neovim (\*also been experimenting with Helix lately)
 - Shell: Zsh
 - Desktop Environment: GNOME, Hyprland
 
@@ -29,7 +29,7 @@ I'm a software developer, tinkerer, and perpetual student.
 
 ### ✨ Things I know
 
-I've messed around and gotten my feet wet with *dozens* of technologies, frameworks, languages, tools, etc.
+I've messed around and gotten my feet wet with _dozens_ of technologies, frameworks, languages, tools, etc.
 For the sake of brevity, I will only list the ones I am willing to call myself proficient with.
 
 #### Web Development
@@ -82,7 +82,6 @@ Technologies:
 - [ ] TODO: Browser-related security stuff like CORS, HSTS
 - [ ] TODO: DNS verity stuff like DNSSEC, DMARC, DKIM, SPF
 
-
 ### 🌱 Currently Learning
 
 - Rustlang
@@ -102,6 +101,7 @@ Technologies:
 ## 📫 Get in touch
 
 ### Developer Accounts
+
 - GitHub: [@Lehmanator](https://github.com/Lehmanator)
 - GitLab: [@Lehmanator](https://gitlab.com/Lehmanator)
 - GNOME GitLab: [@Lehmanator](https://gitlab.gnome.org/Lehmanator)
@@ -114,8 +114,8 @@ Technologies:
 
 - Matrix: [@Lehmanator:tchncs.de](https://matrix.to/#/@lehmanator:tchncs.de)
 - Signal: [@Lehmanator.01](https://signal.me/#eu/nKYJgZClltLKPSGJQDvg6h3PyAhjs5c9Kxe4Nn2T2vad5-mzykVFEqvZnFTrI2fi)
-- Email: *intentionally withheld to prevent spam. please ask*
-- Phone: *intentionally withheld to prevent spam. please ask*
+- Email: _intentionally withheld to prevent spam. please ask_
+- Phone: _intentionally withheld to prevent spam. please ask_
 
 ### Homepage
 
@@ -141,7 +141,7 @@ If you hit a dead link, remind me to update them by opening an issue here.
 
 - [ ] Test links
 - [ ] See above
-      
+
 ### Additions
 
 - [ ] Add personal projects list
@@ -163,7 +163,6 @@ If you hit a dead link, remind me to update them by opening an issue here.
 - [ ] Determine scheme for bulleting items.
 - [ ] Determine scheme for categorizing nested lists.
 - [ ] Remove disclaimers, etc.
-
 
 <!---
  ...otherwise known as:
