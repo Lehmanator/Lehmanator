@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sam Lehman!
 
+![headshot](./profile.png)
+
 I'm a software developer, tinkerer, and perpetual student.
 
 - 😄 Pronouns: `he/him`
