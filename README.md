@@ -97,20 +97,32 @@ Technologies:
 - Nushell
 - Tailwind CSS
 
-## 📫 How to contact me
+## 📫 Get in touch
 
+### Developer Accounts
 - GitHub: [@Lehmanator](https://github.com/Lehmanator)
 - GitLab: [@Lehmanator](https://gitlab.com/Lehmanator)
 - GNOME GitLab: [@Lehmanator](https://gitlab.gnome.org/Lehmanator)
+
+### Social
+
 - Mastodon: [@Lehmanator@fosstodon.org](https://fosstodon.org/Lehmanator)
-- Matrix: [@Lehmanator:tchncs.de](matrix://@Lehmanator:tchncs.de)
-- Website: [samlehman.dev](https://samlehman.dev) **Note: Currently under major reconstruction**
+
+### Chat
+
+- Matrix: [@Lehmanator:tchncs.de][https://matrix.to/#/@lehmanator:tchncs.de] ([Open in Matrix client](matrix://@Lehmanator:tchncs.de))
+
 - Email: *intentionally withheld to prevent spam. please ask*
 - Phone: *intentionally withheld to prevent spam. please ask*
 
-**Note: These accounts will change in the near future.**
+### Homepage
 
-The plan is to migrate most of these accounts to self-hosted servers running on my own domains.
+- Website: [samlehman.dev](https://samlehman.dev) **Note: Currently under major reconstruction**
+
+### Forewarning
+
+**Note: Many of these accounts will probably change in the near future as I migrate to self-hosted infrastructure on my own domains.**
+
 I am currently bootstrapping a bare-metal Kubernetes cluster using [NixOS](https://nixos.org) & [kubenix](https://github.com/hall/kubenix).
 
 Once my cluster is battle-ready, I will spin up servers for:
@@ -120,8 +132,8 @@ Once my cluster is battle-ready, I will spin up servers for:
 - Git forge (probably Forgejo, maybe GitLab)
 - Probably a lot more I'm forgetting about
 
-then migrate my accounts there. 
-If you hit a dead account link, let me know that I need to update them by opening an issue here.
+then migrate my accounts there.
+If you hit a dead link, remind me to update them by opening an issue here.
 
 ## To-Do
 
