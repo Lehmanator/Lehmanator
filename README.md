@@ -113,6 +113,7 @@ Technologies:
 ### Chat
 
 - Matrix: [@Lehmanator:tchncs.de](https://matrix.to/#/@lehmanator:tchncs.de)
+- Signal: [@Lehmanator.01](https://signal.me/#eu/nKYJgZClltLKPSGJQDvg6h3PyAhjs5c9Kxe4Nn2T2vad5-mzykVFEqvZnFTrI2fi)
 - Email: *intentionally withheld to prevent spam. please ask*
 - Phone: *intentionally withheld to prevent spam. please ask*
 
