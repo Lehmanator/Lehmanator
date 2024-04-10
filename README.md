@@ -112,8 +112,7 @@ Technologies:
 
 ### Chat
 
-- Matrix: [@Lehmanator:tchncs.de][https://matrix.to/#/@lehmanator:tchncs.de] ([Open in Matrix client](matrix://@Lehmanator:tchncs.de))
-
+- Matrix: [@Lehmanator:tchncs.de](https://matrix.to/#/@lehmanator:tchncs.de)
 - Email: *intentionally withheld to prevent spam. please ask*
 - Phone: *intentionally withheld to prevent spam. please ask*
 
