@@ -21,8 +21,8 @@ I'm a software developer, tinkerer, and perpetual student.
 ## Stuff I Use
 
 - Operating system: NixOS
-- Editor: Neovim (\*also been experimenting with Helix lately)
-- Shell: Zsh
+- Editor: Helix & Neovim
+- Shell: Nushell & Zsh
 - Desktop Environment: GNOME, Hyprland
 
 ## Skills, Technologies, & whatnot
