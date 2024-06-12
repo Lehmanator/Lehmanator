@@ -52,8 +52,8 @@ For the sake of brevity, I will only list the ones I am willing to call myself p
 
 - Functional Programming: Nix
 - General Purpose: Python, Java
-- Shell Scripting: Bash, Zsh, PowerShell
-- Systems Programming: C, C++
+- Shell Scripting: Bash, Zsh, PowerShell, Nushell
+- Systems Programming: C, Rust
 - Web Development: Javascript, Typescript
 
 #### Platforms
