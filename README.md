@@ -2,10 +2,25 @@
 
 ![headshot](./assets/images/profile.png)
 
-I'm a software developer, tinkerer, and perpetual student.
+I'm a software developer, tinkerer, & perpetual student.
 
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: _this `README` is a work-in-progress, and I've probably forgotten to update it._
+- ⚡ Fun fact: My first programming language was _Visual Basic_.
+ 
+> [!CAUTION]
+> __This document is an unpolished ***work-in-progress***.__
+
+
+> [!NOTE]
+> Given how drastically my stack has changed in recent months,
+> and that I'm perpetually learning new technologies,
+> it's a pretty safe assumption that things have changed since I last updated this doc.
+> 
+> Check the date of the last revision to this document in the commit history,
+> and consider this document out-of-date if older than a few months.
+>
+> _If you find any errors or have any questions,_
+> _please open an issue or send me a message_.
 
 ## 👀 Interests
 
