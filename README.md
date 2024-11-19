@@ -22,6 +22,9 @@ I'm a software developer, tinkerer, & perpetual student.
 > _If you find any errors or have any questions,_
 > _please open an issue or send me a message_.
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Lehmanator)
+
+
 ## 👀 Interests
 
 - Nix & NixOS
